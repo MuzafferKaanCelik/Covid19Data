@@ -19,7 +19,7 @@ public class Covid19Data {
     }
 
     public String toString() {
-        return "Covid19Data:\n" +
+        return "Covid19Data\n" +
                 "Region: " + region + "\n" +
                 "Aldergruppe: " + aldersgruppe + "\n" +
                 "Bekræfted: " + bekræfted + "\n" +
